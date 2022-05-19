@@ -3,5 +3,5 @@
 ## Lorem ipsum
 
 ```
-dolor sit amet 123:456
+asd foo bar 456:123
 ```
